@@ -1,0 +1,16 @@
+#CMSIS drivers should be in the ${PROJECT_DIR}\headers its ignored here-- dont forget to download manuelly
+
+*.launch
+Debug
+Release
+documents
+CMSIS
+*.cproject
+*.project
+*.ld
+*.metadata
+*.settings
+Startup
+sysmem.c
+syscalls.c
+SyStick.c
